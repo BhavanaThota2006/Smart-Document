@@ -1,1 +1,4 @@
-# Smart-Document
+# Smart-Document 
+
+
+Web app using OCR to clean legal documents by extracting printed text, marking correction zones, enabling controlled edits, and generating PDFs.
